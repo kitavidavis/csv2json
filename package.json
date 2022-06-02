@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/kitavidavis/csv2json/issues"
   },
-  "homepage": "https://github.com/kitavidavis/csv2json#readme",
-  "dependencies": {
-    "fs": "^0.0.1-security"
-  }
+  "homepage": "https://github.com/kitavidavis/csv2json#readme"
 }
