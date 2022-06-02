@@ -58,7 +58,10 @@ module.exports = function(path){
         result.push(obj)
     }
 
-    console.log(result);
+    let data = new Object();
+    data.headers = headers;
+    data.json = result;
+    
 
-    return result;
+    return data;
 }
