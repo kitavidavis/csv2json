@@ -1,0 +1,28 @@
+{
+  "name": "@daviskitavi98/csv2json",
+  "version": "1.0.0",
+  "description": "A brilliant javascript package to parse csv to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitavidavis/csv2json.git"
+  },
+  "keywords": [
+    "CSV",
+    "JSON",
+    "NPM",
+    "NodeJS"
+  ],
+  "author": "David Kitavi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kitavidavis/csv2json/issues"
+  },
+  "homepage": "https://github.com/kitavidavis/csv2json#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
